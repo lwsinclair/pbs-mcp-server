@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/matthewdcage-pbs-mcp-server-badge.png)](https://mseep.ai/app/matthewdcage-pbs-mcp-server)
+
 # Pharmaceutical Benefits Scheme (PBS) MCP AI Enabled API Server ![MCP Server](https://badge.mcpx.dev?type=dev 'MCP Dev')
 
 A standalone Model Context Protocol (MCP) server for accessing the Australian Pharmaceutical Benefits Scheme (PBS) API.
